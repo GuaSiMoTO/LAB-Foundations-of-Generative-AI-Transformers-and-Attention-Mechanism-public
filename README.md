@@ -81,11 +81,7 @@ Apply cross-validation to the text generation or focus on specific prompts to ev
 - For each prompt, observe and visualize the attention matrices for both **DistilGPT2** and **GPT-2**.
 - This will allow you to see how consistently each model attends to the input and generates text.
 
-#### Iteration 6: Running the Ollama Model Locally
-
-In this step, you will install and run the **Ollama** model locally on your machine. Follow the instructions from the [Ollama website](https://ollama.com/) to set up the model.
-
-### Iteration 7: Text Summarization with Ollama
+### Iteration 6: Text Summarization with Ollama
 
 In this iteration, you will apply the **Ollama** model to summarize the content of a text file. Follow these steps:
 
