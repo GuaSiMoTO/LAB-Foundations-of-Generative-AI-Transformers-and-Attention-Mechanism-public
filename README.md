@@ -75,9 +75,14 @@ Use the provided functions and compare:
 - How both models differ in the quality and fluency of the generated text.
 - How the attention matrices differ in terms of token interaction.
 
-#### Iteration 5: Cross-Validation of Results (Optional)
+#### Iteration 5: Cross-Validation of Results
 
-If time permits, apply cross-validation to the text generation or focus on specific prompts to evaluate how consistent the differences are between the two models.
+Apply cross-validation to the text generation or focus on specific prompts to evaluate how consistent the differences are between the two models.
+
+**Guidance:**
+- To explore how both models respond to different prompts, try generating text for several varied prompts.
+- For each prompt, observe and visualize the attention matrices for both **DistilGPT2** and **GPT-2**.
+- This will allow you to see how consistently each model attends to the input and generates text.
 
 #### Iteration 6: Conclusions
 
