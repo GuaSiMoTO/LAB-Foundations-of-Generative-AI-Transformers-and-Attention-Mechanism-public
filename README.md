@@ -79,14 +79,25 @@ Use the provided functions and compare:
 
 Apply cross-validation to the text generation or focus on specific prompts to evaluate how consistent the differences are between the two models.
 
-**Guidance:**
 - To explore how both models respond to different prompts, try generating text for several varied prompts.
 - For each prompt, observe and visualize the attention matrices for both **DistilGPT2** and **GPT-2**.
 - This will allow you to see how consistently each model attends to the input and generates text.
 
-#### Iteration 6: Conclusions
+#### Iteration 6: Running the Ollama Model Locally
 
-Discuss which model performs better for generating coherent text based on the comparison of attention patterns and the resulting text quality. Reflect on how attention mechanisms influence text generation.
+In this step, you will install and run the **Ollama** model locally on your machine. Follow the instructions from the [Ollama website](https://ollama.com/) to set up the model.
+
+### Iteration 7: Text Summarization with Ollama
+
+In this iteration, you will apply the **Ollama** model to summarize the content of a text file. Follow these steps:
+
+1. Prepare a text file containing a substantial piece of information. You can use the provided example text about "Artificial Intelligence in Healthcare" or any other topic of interest.
+
+2. Use **Ollama** to generate a summary of the text. Create a prompt that instructs the model to summarize the content effectively.
+
+3. Observe the generated summary and evaluate how well it captures the main ideas of the original text. 
+
+4. Compare the summary produced by **Ollama** with your own understanding of the text to analyze its accuracy and coherence.
 
 ### Submission
 
