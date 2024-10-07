@@ -91,7 +91,7 @@ In this iteration, you will apply the **Ollama** model to summarize the content 
 
 1. Prepare a text file containing a substantial piece of information. You can use the provided example text about "Artificial Intelligence in Healthcare" or any other topic of interest.
 
-2. Use **Ollama** to generate a summary of the text. Create a prompt that instructs the model to summarize the content effectively.
+2. Use **Ollama** to generate a summary of the text in ```article.txt``` in a ```summary.txt```. Create a prompt that instructs the model to summarize the content effectively.
 
 3. Observe the generated summary and evaluate how well it captures the main ideas of the original text. 
 
