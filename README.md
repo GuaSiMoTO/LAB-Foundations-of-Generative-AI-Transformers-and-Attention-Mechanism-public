@@ -93,6 +93,42 @@ In this iteration, you will apply the **Ollama** model to summarize the content 
 
 4. Compare the summary produced by **Ollama** with your own understanding of the text to analyze its accuracy and coherence.
 
+### Bonus 
+
+# Bonus Exercise: Fine-Tuning Ollama for Custom Summarization
+
+In this bonus exercise, you will explore the **Ollama** model’s ability to generate customized summaries based on specific contexts. Your task is to modify prompts and experiment with different approaches to create audience-specific summaries and varying lengths of summaries using the article provided.
+
+## Instructions:
+
+### 1. Customizing the Prompt:
+- Modify the prompt to focus on different aspects of the ```article.txt```.
+- Examples of custom prompts include:
+  - *"Summarize the text focusing on AI's impact in medical imaging"*
+  - *"Summarize the text emphasizing AI's role in streamlining administrative tasks in healthcare"*
+
+- Compare the results and reflect on how the variations in prompts affect the output of the summary.
+
+### 2. Evaluating Coherence:
+- Generate multiple summaries of the same article using slight changes in the prompt (e.g., focusing on different sections or aspects).
+- Evaluate the coherence and consistency of each summary. Which prompts led to the most accurate and clear results? Why?
+
+### 3. Audience-Specific Summaries:
+- Create summaries for different audiences. For example:
+  - *"Generate a summary for healthcare professionals"*
+  - *"Summarize the article for patients interested in AI applications in healthcare"*
+
+- Analyze how the content changes based on the audience. Does the model successfully adapt the information to match the audience's needs?
+
+### 4. Summary Length:
+- Experiment with summary length by varying the prompts:
+  - *"Provide a brief summary of the article"*
+  - *"Provide a detailed summary of the article"*
+
+- Compare the results and evaluate how the level of detail and accuracy shifts with different lengths.
+
+
+
 ### Submission
 
 Once you have completed the lab, push your Jupyter notebook to your forked GitHub repository and create a pull request.

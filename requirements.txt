@@ -1,0 +1,6 @@
+transformers
+tensorflow
+matplotlib
+numpy
+requests
+ollama
