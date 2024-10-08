@@ -38,9 +38,7 @@ jupyter notebook
 
 Once your environment is ready, you're all set to dive into the exercises.
 
-## Workflow
-
-### Iteration 1: Loading the Models
+## Iteration 1: Loading the Models
 
 Start by loading the **DistilGPT2** and **GPT-2** models using Hugging Face's `transformers` library.
 
@@ -48,7 +46,7 @@ Start by loading the **DistilGPT2** and **GPT-2** models using Hugging Face's `t
 
 2. Load the two models and their tokenizers.
 
-### Iteration 2: Text Generation with Attention
+## Iteration 2: Text Generation with Attention
 
 Next, we will generate text using both models and extract the attention matrices.
 
@@ -56,7 +54,7 @@ Next, we will generate text using both models and extract the attention matrices
 
 2. Choose a prompt and generate text with both models.
 
-### Iteration 3: Visualizing the Attention Matrices
+## Iteration 3: Visualizing the Attention Matrices
 
 We will now visualize the attention weights to understand how the models attend to different parts of the input.
 
@@ -64,7 +62,7 @@ We will now visualize the attention weights to understand how the models attend 
 
 2. Plot the attention matrices for both models.
 
-### Iteration 4: Model Comparison
+## Iteration 4: Model Comparison
 
 In this section, you will compare:
 1. The generated text from both models.
@@ -74,7 +72,7 @@ Use the provided functions and compare:
 - How both models differ in the quality and fluency of the generated text.
 - How the attention matrices differ in terms of token interaction.
 
-### Iteration 5: Cross-Validation of Results
+## Iteration 5: Cross-Validation of Results
 
 Apply cross-validation to the text generation or focus on specific prompts to evaluate how consistent the differences are between the two models.
 
@@ -82,7 +80,7 @@ Apply cross-validation to the text generation or focus on specific prompts to ev
 - For each prompt, observe and visualize the attention matrices for both **DistilGPT2** and **GPT-2**.
 - This will allow you to see how consistently each model attends to the input and generates text.
 
-### Iteration 6: Text Summarization with Ollama
+## Iteration 6: Text Summarization with Ollama
 
 In this iteration, you will apply the **Ollama** model to summarize the content of a text file. Follow these steps:
 
@@ -94,7 +92,7 @@ In this iteration, you will apply the **Ollama** model to summarize the content 
 
 4. Compare the summary produced by **Ollama** with your own understanding of the text to analyze its accuracy and coherence.
 
-### Bonus: Fine-Tuning Ollama for Custom Summarization
+## Bonus: Fine-Tuning Ollama for Custom Summarization
 
 In this bonus exercise, you will explore the **Ollama** model’s ability to generate customized summaries based on specific contexts. Your task is to modify prompts and experiment with different approaches to create audience-specific summaries and varying lengths of summaries using the article provided.
 
@@ -128,7 +126,7 @@ In this bonus exercise, you will explore the **Ollama** model’s ability to gen
 
 
 
-### Submission
+## Submission
 
 Once you have completed the lab, push your Jupyter notebook to your forked GitHub repository and create a pull request.
 
