@@ -22,7 +22,7 @@ git clone https://github.com/codeskills-ai/LAB-Foundations-of-Generative-AI-Tran
 cd LAB-Foundations-of-Generative-AI-Transormers-and-Attention-Mechanism
 ```
 
-## Setup Instructions
+### Setup Instructions
 
 Create a virtual environment and install the required packages:
 
