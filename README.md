@@ -80,7 +80,7 @@ Apply cross-validation to the text generation or focus on specific prompts to ev
 - For each prompt, observe and visualize the attention matrices for both **DistilGPT2** and **GPT-2**.
 - This will allow you to see how consistently each model attends to the input and generates text.
 
-# Iteration 6 : Critical Analysis of Language Models
+## Iteration 6 : Critical Analysis of Language Models
 
 Below are several questions about the characteristics and performance of language models. Answer each question thoughtfully, justifying your responses with relevant examples or concepts. Both technical understanding and clarity of reasoning will be evaluated.
 
