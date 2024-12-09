@@ -3,10 +3,11 @@
 
 ## Introduction
 In this lab, students will compare Transformer models on two key tasks:
-1. **Text Summarization**: Using **BART** and **Ollama** to evaluate the quality of generated summaries.
-2. **Sentiment Analysis**: Comparing a pretrained model (e.g., **DistilBERT** or **RoBERTa**) with **Ollama** for sentiment classification.
+1. **Text Summarization**: Using **BART** to evaluate the quality of generated summaries.
+2. **Sentiment Analysis**: Comparing a pretrained model (e.g., **DistilBERT** or **RoBERTa**) for sentiment classification.
+3. **Text Translation**: Utilizing the **Helsinki-NLP** model to translate text from English to Spanish and analyze the impact of different parameters on translation quality.
 
-The objective is to observe how different Transformer models process and produce results for the same tasks, evaluating differences in precision, consistency, and quality.
+The objective is to observe how different Transformer models process and produce results for the same tasks, evaluating differences in precision, consistency, and quality, and exploring their applicability to real-world scenarios.
 
 ## Initial Setup
 
