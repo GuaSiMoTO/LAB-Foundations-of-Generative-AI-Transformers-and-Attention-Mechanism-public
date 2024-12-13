@@ -69,7 +69,7 @@ Once your environment is ready, you're all set to dive into the exercises.
 ---
 
 ## Iteration 4: Sentiment Analysis with DistilBERT or RoBERTa
-1. Prepare a set of short texts with sentiment labels (positive, negative, neutral).
+1. Prepare a set of short texts with sentiment labels (positive, negative).
 2. Use the pretrained model (e.g., **DistilBERT**) for sentiment classification:
    - Define a function to process each text and return a sentiment label.
    - Save the predictions to `sentiments_model.txt`.
