@@ -1,0 +1,21 @@
+Text: I love the new design of the product!
+Sentiment: POSITIVE, Confidence: 0.9999
+
+Text: The service was terrible and disappointing.
+Sentiment: NEGATIVE, Confidence: 0.9997
+
+Text: It's okay, but nothing special.
+Sentiment: NEGATIVE, Confidence: 0.9883
+
+Text: This is absolutely amazing! Best purchase ever!
+Sentiment: POSITIVE, Confidence: 0.9999
+
+Text: I've never been so frustrated with a product in my life.
+Sentiment: NEGATIVE, Confidence: 0.8777
+
+Text: The item works as described, no complaints.
+Sentiment: POSITIVE, Confidence: 0.9882
+
+Text: The app crashes constantly and loses all my data.
+Sentiment: NEGATIVE, Confidence: 0.9998
+
